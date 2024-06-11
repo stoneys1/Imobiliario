@@ -1,0 +1,23 @@
+{
+  "hash": "343e43b0",
+  "browserHash": "82631ce7",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a905cfcd",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "e92cd7a6",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-V42YN7MM": {
+      "file": "chunk-V42YN7MM.js"
+    }
+  }
+}
