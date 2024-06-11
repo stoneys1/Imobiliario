@@ -3,36 +3,36 @@
     "name": "Bella CASA Jardim",
     "price": "R$ 5.490.000.00",
     "detail": "Morumbi - São Paulo/SP",
-    "image": "/public/morumbi.jpg"
+    "image": "/morumbi.jpg"
   },
   {
     "name": "Alameda dos Nhambiquaras",
     "price": "R$ 5.200.000",
     "detail": "Moema - São Paulo/SP",
-    "image": "/public/moema.jpeg"
+    "image": "/moema.jpeg"
   },
   {
     "name": "Aphaville Palace",
     "price": "R$12.200.000.00",
     "detail": "Alphaville - Barueri/SP",
-    "image": "/public/aphavella.jpg"
+    "image": "/aphavella.jpg"
   },
   {
     "name": "Canto Sabiá",
     "price": "R$ 916.588",
     "detail": "Moema - São Paulo/SP",
-    "image": "/public/moema2.jpg"
+    "image": "/moema2.jpg"
   },
   {
     "name": "CASA BOAÇAVA",
     "price": "R$ 3.166.353",
     "detail": "Tamboré Santana de Parnaíba - São Paulo/SP",
-    "image": "/public/morumbi2.jpg"
+    "image": "/morumbi2.jpg"
   },
   {
     "name": "Apartamento Alto da Pompéia",
     "price": "R$ 2.100.000",
     "detail": "Bairro Pompéia - Santos/SP",
-    "image": "/public/santos.jpg"
+    "image": "/santos.jpg"
   }
 ]
