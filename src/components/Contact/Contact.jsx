@@ -83,7 +83,7 @@ const Contact = () => {
 
                 <div className="c-right">
                     <div className="image-container">
-                        <img src="/public/aa.jpeg" alt="" />
+                        <img src="/aa.jpeg" alt="" />
                     </div>
                 </div>
             </div>
